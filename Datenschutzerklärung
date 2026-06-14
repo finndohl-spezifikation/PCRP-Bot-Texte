@@ -1,0 +1,23 @@
+Datenschutzerklärung (Privacy Policy) für PCRP Bot
+Diese Datenschutzerklärung informiert dich über die Art, den Umfang und den Zweck der Erhebung und Verwendung personenbezogener Daten durch den Discord-Bot PCRP Bot (nachfolgend „der Bot“).
+1. Verantwortlicher und Kontakt
+Verantwortlich für den Betrieb des Bots und die Datenverarbeitung ist das Entwickler-Team von PCRP Bot. Bei Fragen zum Datenschutz oder zur Löschung deiner Daten kannst du uns jederzeit per E-Mail kontaktieren:
+E-Mail: resolvotool@gmail.com
+2. Erhobene und verarbeitete Daten
+Der Bot erhebt und speichert ausschließlich Daten, die für den technischen Betrieb, die Bereitstellung der GTA-RP-Spielfunktionen und die Sicherheit des Bots zwingend erforderlich sind. Dazu gehören:
+ Discord-IDs: Deine eindeutige Discord-Benutzer-ID sowie Server-IDs (Guild-IDs) und Kanal-IDs (Channel-IDs), auf denen der Bot interagiert.
+ Profildaten: Dein Discord-Benutzername und ggf. dein Server-Spitzname (Nick-Name).
+ Spieldaten (GTA RP): Alle im Rahmen des Bots generierten virtuellen Daten (z. B. Ingame-Kontostand, Inventar, Fahrzeuge, Immobilien, Fraktionszugehörigkeit und Level).
+ Logdaten: Zeitpunkte von Befehlen und Interaktionen mit dem Bot zur Fehleranalyse und zum Schutz vor Missbrauch.
+3. Zweck der Datenverarbeitung
+Die Verarbeitung der Daten erfolgt ausschließlich zu folgenden Zwecken:
+ Um die Spielfunktionen des Bots (Wirtschaftssystem, Rollenspiel-Fortschritt) zu ermöglichen und zu speichern.
+ Zur Verwaltung von Rechten und Rollen (z. B. Admin-Befehle auf Servern).
+ Zur Fehlerbehebung (Debugging) und Abwehr von Schadensversuchen (z. B. Spam oder Exploits).
+4. Weitergabe von Daten
+Es findet keine Weitergabe deiner Daten an unbefugte Dritte statt. Die Daten werden ausschließlich auf unseren sicheren Datenbanken verarbeitet. Da der Bot auf der Discord-Plattform läuft, werden Befehle und Interaktionen technisch über die Server von Discord Inc. geleitet.
+5. Speicherdauer und Datenlöschung
+ Spieldaten und IDs bleiben so lange gespeichert, wie der Bot genutzt wird oder auf dem jeweiligen Server aktiv ist.
+ Du hast jederzeit das Recht, die vollständige Löschung deiner gespeicherten Daten zu verlangen. Sende dazu einfach eine formlose Anfrage mit Angabe deiner Discord-Benutzer-ID an resolvotool@gmail.com.
+6. Rechte der Nutzer
+Du hast das Recht auf Auskunft über die von uns gespeicherten Daten, auf Korrektur unrichtiger Daten sowie auf die Löschung deiner Daten, sofern keine gesetzlichen Aufbewahrungspflichten entgegenstehen.
